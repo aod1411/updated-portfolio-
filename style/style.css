@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(37,35,36) ;
+    }
+    
+    .aidaImage{
+    height: 450px;
+    width: 350px;
+    border: 2px white solid;
+    border-radius: 50%;
+}   
+    .projectImages{
+        width: 100%;
+        padding: .5rem;
+    }
+    
+    .aboutClass{
+    padding: .5rem .1rem .1rem .1rem;
+    }
+
+    p, h2, h3, h5 {
+        color: white;
+        display: block;
+        text-align: center;
+        margin: 50px 25px;
+    }
+
+    .card-text{
+        color: black;
+    }
+
+    .card-title{
+        color:black;
+    }
