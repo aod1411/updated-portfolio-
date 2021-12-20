@@ -1,6 +1,12 @@
 
 [LIVE LINK](https://aod1411.github.io/updated-portfolio-/)
 
+### About Section
+![aboutPortfolio](https://user-images.githubusercontent.com/87099278/146808014-bc68db27-d893-4e1d-8102-39f9c59d253d.PNG)
+
+### Projects Section
+![projectsPortfolio](https://user-images.githubusercontent.com/87099278/146808048-9187bdab-8a24-4817-bc78-9f3c69cf4651.PNG)
+
 # Portfolio Update
 
   ## Description
