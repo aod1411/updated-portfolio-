@@ -1,6 +1,5 @@
-# PORTFOLIO IN PROGRESS 
 
-[LIVE](https://aod1411.github.io/updated-portfolio-/)
+[LIVE LINK](https://aod1411.github.io/updated-portfolio-/)
 
 # Portfolio Update
 
